@@ -9,3 +9,8 @@ gem 'rspec'
 
 # Debugging
 gem 'pry'
+
+
+gem 'rake'
+gem 'rspec'
+gem 'kramdown'
